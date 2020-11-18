@@ -1,0 +1,47 @@
+{
+  "_from": "@sencha/ext-modern-runtime@^7.3.0",
+  "_id": "@sencha/ext-modern-runtime@7.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-FC30fffIgMavK7QirxosArJ2ErKfIqAghJ6LGHJdWhwLVilk+6C199AF5CK4+hOGsB0ncntDUgx4k3z+F2GX7w==",
+  "_location": "/@sencha/ext-modern-runtime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@sencha/ext-modern-runtime@^7.3.0",
+    "name": "@sencha/ext-modern-runtime",
+    "escapedName": "@sencha%2fext-modern-runtime",
+    "scope": "@sencha",
+    "rawSpec": "^7.3.0",
+    "saveSpec": null,
+    "fetchSpec": "^7.3.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@sencha/ext-modern-runtime/-/ext-modern-runtime-7.3.2.tgz",
+  "_shasum": "e2817c08ca2e061aa8ee5765527489ea08da427d",
+  "_spec": "@sencha/ext-modern-runtime@^7.3.0",
+  "_where": "D:\\exreact-demo\\ext-react-modern-demo",
+  "author": {
+    "name": "Sencha"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## [About Ext JS](http://www.sencha.com/) Ext JS is a comprehensive and secure JavaScript framework with a powerful library of over 140 enterprise-grade UI components such as Data Grids, Pivot Grids, Trees, Charts, D3 Visualizations, Forms, Calendars, Buttons, Menus and many more. Ext JS feature-rich components are pre-built and tested and work across browsers and platforms. Packed with all the features you ever need, with Ext JS you’ll never have to go out of the framework to create and deploy stunning web and mobile applications.",
+  "devDependencies": {},
+  "homepage": "https://github.com/sencha/",
+  "keywords": [],
+  "license": "ISC",
+  "name": "@sencha/ext-modern-runtime",
+  "peerDependencies": {},
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sencha/"
+  },
+  "scripts": {},
+  "version": "7.3.2"
+}
