@@ -5,6 +5,7 @@
   "dependencies": {
     "@sencha/ext-modern-runtime": "^7.3.2",
     "@sencha/ext-react-modern": "^7.3.0",
+    "@toast-ui/react-image-editor": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0"
