@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { ExtGrid } from "@sencha/ext-react-modern";
 import { ExtColumn } from "@sencha/ext-react-modern";
 import ImageEditor from "./view/image-editor";
+import MyPainterro from "./view/painterro";
 
 const Ext = window["Ext"];
 
@@ -52,7 +53,8 @@ class App extends Component {
             renderer={this.renderSign.bind(this, "0.00")}
           />
         </ExtGrid> */}
-        <ImageEditor></ImageEditor>
+        {/* <ImageEditor></ImageEditor> */}
+        <MyPainterro> </MyPainterro>
       </div>
     );
   }
