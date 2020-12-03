@@ -1,7 +1,30 @@
 /* https://www.rapidtables.com/web/color/ */
 :root {
-  --base-color: #A24059;
+  --base-color: #a24059;
   --base-foreground-color: white;
   --background-color: white;
   --color: black;
+}
+
+.search-list {
+  position: relative;
+}
+
+.search-list ul {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid lightgray;
+}
+
+.search-list li {
+  padding: 5px 10px;
+}
+
+.show {
+  display: block !important;
 }
