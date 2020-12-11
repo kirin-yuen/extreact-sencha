@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@sencha/ext": "^7.3.0",
     "@sencha/ext-modern-runtime": "^7.3.2",
     "@sencha/ext-react-modern": "^7.3.0",
     "@toast-ui/react-image-editor": "^1.2.1",

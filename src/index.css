@@ -6,6 +6,11 @@
   --color: black;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .search-list {
   position: relative;
 }
@@ -27,4 +32,25 @@
 
 .show {
   display: block !important;
+}
+
+.keyword-grid {
+  height: 768px;
+}
+.keyword-grid .left {
+  background-color: #eee;
+  margin: 10px;
+}
+.keyword-grid .right {
+  background-color: white;
+}
+
+.keyword-grid .keyword-box .keyword-box-title {
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.keyword-grid .keyword-box .keyword-box-body.empty {
+  height: 100%;
+  background-color: rgb(165, 165, 165);
 }
