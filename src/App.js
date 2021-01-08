@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import StoreTest from "./view/StoreTest";
+import ListTest from "./view/ListTest";
 
 class App extends Component {
   constructor() {
@@ -7,7 +7,7 @@ class App extends Component {
   }
 
   render() {
-    return <StoreTest></StoreTest>;
+    return <ListTest></ListTest>;
   }
 }
 export default App;

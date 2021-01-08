@@ -6,6 +6,10 @@
   --color: black;
 }
 
+body {
+  margin: 0;
+}
+
 .search-list {
   position: relative;
 }
@@ -32,4 +36,43 @@
 .keyword-grid.x-dataview {
   width: 300px;
   height: 100px;
+}
+
+.myStyle {
+  width: 30px;
+  height: 20px;
+  background: gray;
+  float: left;
+}
+
+.proxy-placeholder {
+  background-color: lightsalmon;
+  position: relative;
+}
+
+.proxy-source {
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  user-select: none;
+  cursor: move;
+  position: relative;
+}
+
+.proxy-drag-custom {
+  border: 2px dotted rgb(25, 63, 189);
+  color: rgb(25, 63, 189);
+  padding: 5px;
+  text-align: center;
+  width: 30%;
+  position: absolute;
+  top:-10px
+}
+
+.main-panel {
+  /* position: absolute; */
+  border: 1px solid gray;
+  top: 100px;
 }
